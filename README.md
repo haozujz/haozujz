@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning swift, tensorflow
 - 💞️ I’m looking to collaborate on iOS dev, data visualization, ML & RL, AR & VR, drone-related projects
 - 📫 How to reach me ... joseph.zhu.jz@gmail.com
+- Have a look at what I've done: https://haozujz.github.io/josephzhu/
 
 <!---
 haozujz/haozujz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
